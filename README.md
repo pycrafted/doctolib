@@ -10,6 +10,8 @@
 - S'appuyer sur une infrastructure hybride (serveurs Orthanc locaux + serveur central)
 - Garantir la sécurité, la confidentialité et la conformité réglementaire
 
+![Capture d'écran 2025-06-15 135839](https://github.com/user-attachments/assets/e88b0120-5b89-4878-a599-5f10ad5f2bed)
+
 ---
 
 ## ✨ Fonctionnalités principales
@@ -32,10 +34,14 @@
 ### 🤖 Module IA
 - 🩺 **Assistance** : Discussion avec le patient pour le guider
 
+![ia](https://github.com/user-attachments/assets/42769377-c522-4863-a8fa-51a82f7e5f5a)
+
 ### 🔒 Sécurité & accessibilité
 - 🛡️ Authentification multi-facteurs (2FA), chiffrement des données
 - 👥 Gestion fine des rôles et permissions (admin, médecins, assistants, patients, chercheurs)
 - ☁️ Archivage cloud sécurisé, conforme RGPD/HIPAA
+
+![double-authentification](https://github.com/user-attachments/assets/750796b1-4cf8-48b0-93ba-21ae04c4bfd4)
 
 ---
 
